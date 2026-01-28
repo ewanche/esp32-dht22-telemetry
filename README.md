@@ -13,7 +13,7 @@ The project can be use for smart homes, air conditioning control and hydroponic.
 ⸻
 
 **Used technology:**
- -ESP32 DevKit v1
+ - ESP32 DevKit v1
  - Sensor of temp/humidity DHT22
  - Blynk IoT (Cloud + Mobile App)
  - Arduino Framework / PlatformIO
@@ -22,7 +22,8 @@ The project can be use for smart homes, air conditioning control and hydroponic.
 
 **Wiring diagram** 
 
-(wiring-diagram.png)
+![wiring_diagram](https://github.com/user-attachments/assets/299e08ae-9db4-4065-b81b-a16f74ff0997)
+
 
 Pins:
 
@@ -108,6 +109,7 @@ Digits will reload every 2 seconds.
 
 Video-Demo
 (GIF/MP4)
+![esp32dht22](https://github.com/user-attachments/assets/54f6b654-01a8-46cb-921c-41b1c29b3f06)
 
 ⸻
 
